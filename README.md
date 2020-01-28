@@ -1,6 +1,9 @@
 <div align="center">
 <img src="https://lh3.googleusercontent.com/1xfIzzw-dTyZlNam_xtccgLS_RRmMW00YJvRoo6n72tTXs5LZAN6UG2ZF9eEMg_1GA=s180-rw" alt="" width="70px" height="70px">
 </div>
+<div align="center">
+<img src="https://lh3.googleusercontent.com/9M7YLWE6uqW3mQL5wBZIjGGLWmKfeupezbUSN9ahU5yw5Qw5WdjXt4mtahaWI1MD7A=w330-h160-rw" alt=" width="50%">
+</div>
 <h3 align="center" >Privacy Curtain</h3>
 <h5 align="center">A fully personalised curtain with lock to avoid accidental touches</h5>
 
