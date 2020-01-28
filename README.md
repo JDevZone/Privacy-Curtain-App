@@ -2,9 +2,9 @@
 <img src="https://lh3.googleusercontent.com/1xfIzzw-dTyZlNam_xtccgLS_RRmMW00YJvRoo6n72tTXs5LZAN6UG2ZF9eEMg_1GA=s180-rw" alt="" width="70px" height="70px">
 </div>
 <div align="center">
-<img src="https://lh3.googleusercontent.com/9M7YLWE6uqW3mQL5wBZIjGGLWmKfeupezbUSN9ahU5yw5Qw5WdjXt4mtahaWI1MD7A=w330-h160-rw" alt=" width="50%">
+<img src="https://lh3.googleusercontent.com/9M7YLWE6uqW3mQL5wBZIjGGLWmKfeupezbUSN9ahU5yw5Qw5WdjXt4mtahaWI1MD7A=w400-h200-rw" alt=" width="50%">
 </div>
-<h3 align="center" >Privacy Curtain</h3>
+
 <h5 align="center">A fully personalised curtain with lock to avoid accidental touches</h5>
 
 <p align="center">Privacy Curtain is a customisable curtain to guard your private content in public.It lets you use your phone confidently by covering your screen with digital Curtain.You can personalise it with your favourite colors or with provided textures and also you can set the level of transparency according to your liking.You can combine both color and texture to get different tint in every texture.
