@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://lh4.googleusercontent.com/ohV6hrplp9H2JIpplBOj8JdRrzXdTtO7jBLaM9vRKDJW0XshREmBN2FgulUa3WQjulxSAvo=w16383" alt="" width="70px" height="70px">
+<img src="play_round.png" alt="" width="70px" height="70px">
 </div>
 <div align="center">
 <img height="40px">
