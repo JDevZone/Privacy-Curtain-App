@@ -5,7 +5,7 @@
 <img height="40px">
 </div>
 <div align="center">
-<img src="https://lh3.googleusercontent.com/TbEI2KQG2MrY90FxDoLeoSIUdF4JDtXpabUW8S9A5myBGSaj-IK7gu9XINcMNFGwv11y=w400-h200-rw" alt=" width="50%">
+<img src="https://lh3.googleusercontent.com/PVEZ3XPgZdPMAZpU3JEnONXXE2S7RGSrJyPZpOCNrGdDbrqplMiTg9Uv4iiWIm_TzA=w500-h250-rw" alt=" width="50%">
 </div>
 
 <h5 align="center">A simple yet powerful curtain for your device screen with ton of styling options</h5>
